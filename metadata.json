@@ -1,0 +1,45 @@
+{
+  "name": "control-repo_bootstrap-roles",
+  "version": "0.0.1",
+  "author": " ",
+  "summary": "roles",
+  "license": "Apache-2.0",
+  "source": "https://github.com/prolixalias/control-repo_bootstrap-roles",
+  "project_page": "https://github.com/prolixalias/control-repo_bootstrap-roles",
+  "issues_url": "https://github.com/prolixalias/control-repo_bootstrap-roles/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 4.12.0"
+    }
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "14.04",
+        "16.04"
+      ]
+    },
+    {
+      "operatingsystem": "windows",
+      "operatingsystemrelease": [
+        "2012 R2"
+      ]
+    }
+  ]
+}
